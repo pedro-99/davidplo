@@ -1195,8 +1195,9 @@ ul.some_agile_facts label {
 .wthree_team_grid_left{
 	overflow:hidden;
 	position:relative;
-	margin-left: 361px;
+
 }
+
 .wthree_team_grid_left img {
     -webkit-transition: -webkit-transform 400ms ease;
     -moz-transition: -moz-transform 400ms ease;
