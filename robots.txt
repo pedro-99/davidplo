@@ -1,0 +1,29 @@
+User-agent: Googlebot
+Disallow: /apps/
+Disallow: /tests/
+Disallow: /video/
+Disallow: /asset/
+Disallow: /assets/
+Disallow: /share/
+Disallow: /message/
+Disallow: /download/
+Disallow: /draft/
+Disallow: /api-1.1/
+Disallow: /learn/
+Disallow: /embed/
+
+User-agent: *
+Allow: /
+Disallow: /apps/
+Disallow: /tests/
+Disallow: /video/
+Disallow: /asset/
+Disallow: /assets/
+Disallow: /share/
+Disallow: /message/
+Disallow: /download/
+Disallow: /draft/
+Disallow: /api-1.1/
+Disallow: /learn/
+
+Sitemap: https://www.davidplo.info/sitemap.xml

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://davidplo.info/</title>
+  <link>http://davidplo.info/</link>
+
+<item>
+     <link>https://davidplo.info/</link>
+     <title> David Plomeria| servicio de plomeria a domicilio rd </title>
+     <description>width=device-width, initial-scale=1</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://davidplo.info/index.html</link>
+     <title> David Plomeria| servicio de plomeria a domicilio rd </title>
+     <description>width=device-width, initial-scale=1</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
